@@ -19,6 +19,7 @@ Version 1.1 (Current)
 Version 1.0
 - Initial release, including game, UI elements, viewmodel and game reset functionalities.
 
+>>>>>>> 75649ddd4e2d5f6816408f1766262f72baf6d841
 ## Planned future improvements: 📌
 - Improve UI elements and make the app look more interactive.
 - Keep a record for how many winning games each player has achieved.
