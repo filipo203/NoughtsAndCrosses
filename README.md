@@ -10,10 +10,13 @@ Created in Android Studio, built using Kotlin, Android UI (Jetpack Compose) and 
 ![alt text](https://github.com/filipo203/NoughtsAndCrosses/blob/main/screenshots/Screenshot_20250505_162829.png)
 
 ## Updates
-Version 1.1 (Current)
+Version 1.2 (Current)
+- Included the font change for the text for O & X symbols on the grid and the restart button.
+
+Version 1.1
 - Changed the app's font from its default to Sugar Snow: https://www.dafont.com/sugar-snow.font
 - Increased reset button size.
-- Adjusted column spacers so when reset button appears, it doesn't shift UI elements on screen.
+- Adjusted UI column spacers so when reset button appears, it doesn't shift UI elements on screen.
 - Light mode and dark mode integrated.
 - Compose adjusted so that ViewModel remains and game doesn't reset when UI is recreated upon theme change.
 

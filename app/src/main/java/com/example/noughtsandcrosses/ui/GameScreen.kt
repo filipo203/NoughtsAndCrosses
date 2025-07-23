@@ -59,7 +59,11 @@ fun GameScreen(viewModel: ViewModel, sugarSnow: FontFamily) {
                             .clickable { viewModel.makeMove(i, j) },
                         contentAlignment = Alignment.Center
                     ) {
-                        Text(board[i][j], fontSize = 36.sp)
+                        Text(
+                            board[i][j],
+                            fontSize = 36.sp,
+                            fontFamily = sugarSnow
+                        )
                     }
                 }
             }
@@ -68,7 +72,11 @@ fun GameScreen(viewModel: ViewModel, sugarSnow: FontFamily) {
 
         if (winner != null) {
             Button(onClick = { viewModel.resetGame() }) {
-                Text("Restart", fontSize = 18.sp)
+                Text(
+                    "Restart",
+                    fontSize = 18.sp,
+                    fontFamily = sugarSnow
+                    )
             }
         } else {
             Spacer(modifier = Modifier.height(48.dp))
