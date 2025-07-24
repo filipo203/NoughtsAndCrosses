@@ -9,7 +9,7 @@ Created in Android Studio, built using Kotlin, Android UI (Jetpack Compose) and 
 ![alt text](https://github.com/filipo203/NoughtsAndCrosses/blob/main/screenshots/Screenshot_20250505_162639.png)
 ![alt text](https://github.com/filipo203/NoughtsAndCrosses/blob/main/screenshots/Screenshot_20250505_162829.png)
 
-## Updates
+## Updates 📲
 Version 1.2 (Current)
 - Included the font change for the text for O & X symbols on the grid and the restart button.
 
@@ -24,7 +24,7 @@ Version 1.0
 - Initial release, including game, UI elements, viewmodel and game reset functionalities.
 
 ## Planned future improvements: 📌
-- Improve UI elements and make the app look more interactive.
+- ~~Improve UI elements and make the app look more interactive.~~ ✅
 - Keep a record for how many winning games each player has achieved.
 - Research other game modes associated to this game and integrate green-lit ideas into the app.
 - Follow up to previous point, build a navigation system throughout the app and its game modes.
