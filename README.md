@@ -5,7 +5,7 @@ A simple game of Noughts and Crosses (Tic-Tac-Toe) on Android platforms. Players
 
 Created in Android Studio, built using Kotlin, Android UI (Jetpack Compose) and MVVM. State management is handled via ViewModel and Compose's reactive UI system.
 
-## Screenshots
+## Screenshots (need updating)
 ![alt text](https://github.com/filipo203/NoughtsAndCrosses/blob/main/screenshots/Screenshot_20250505_162639.png)
 ![alt text](https://github.com/filipo203/NoughtsAndCrosses/blob/main/screenshots/Screenshot_20250505_162829.png)
 
